@@ -1,6 +1,6 @@
 # brevi
 
-A new Flutter project.
+Projeto que engloba uma comanda virtual com opção de compras e pagamentos
 
 ## Getting Started
 
